@@ -1,0 +1,35 @@
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\S7.Net.dll
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\S7.Net.xml
+C:\Users\hieng\source\repos\project1\project1\obj\Debug\project1.csproj.CopyComplete
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\NetToolKit.dll
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\SKCLNET.dll
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hieng\source\repos\project1\project1\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\project1.exe.config
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\project1.exe
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\project1.pdb
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\NetToolKit.dll
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\SKCLNET.dll
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\bin\Debug\S7.Net.xml
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.Form1.resources
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.Form2.resources
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.csproj.CopyComplete
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.exe
+C:\Users\hieng\source\repos\QL-Tram-Bom (Winform)\project1\obj\Debug\project1.pdb
